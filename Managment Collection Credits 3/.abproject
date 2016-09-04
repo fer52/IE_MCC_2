@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Managment Collection Credits 3",
+  "ProjectGuid": "7c5512aa-d9ef-4e41-b905-5ea7ff06fae5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ManagmentCollectionCredits3",
+  "DisplayName": "Managment Collection Credits 3",
+  "Author": "",
+  "Description": "Managment Collection Credits 3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{c864d2b3-ffa6-4d89-873f-3f4dec2c6aa8}",
+  "WP8ProductID": "{1f715630-6287-45cd-99d4-5c38ced2b465}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ManagmentCollectionCredits3",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
